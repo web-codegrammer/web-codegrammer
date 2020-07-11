@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/Web_codegrammer)
 ## Hi, I'm Devanshu :two_hearts:
 
-I am a Front end web developer currently moving towards Full Stack developemnt.I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering. 
-[@Web_codegrammer](https://twitter.com/Web_codegrammer)
+I am a Front end web developer currently moving towards Full Stack developemnt. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering. 
+ [@Web_codegrammer](https://twitter.com/Web_codegrammer)
 
 ## Fun Facts
 :sparkles: I am a final year student pursuing Computer Engineering from India
