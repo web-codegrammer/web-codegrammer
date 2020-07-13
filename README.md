@@ -15,7 +15,7 @@ I am a Front end web developer currently moving towards Full Stack development. 
 
 :sparkles: I love to do Projects based on Js frameworks
 
-:sparkles: Software is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+:sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
 
 :sparkles: My favorite band is: Iron Maiden and Pink Floyd
 
