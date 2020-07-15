@@ -32,7 +32,7 @@
 ### I'm 21 years old Self-taught Front-end web developer currently moving towards Full Stack development. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
 
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,AWS <code> <img height="20" width="16" src="https://lh3.googleusercontent.com/proxy/55NBFBhgYbo42A-enorqb1iaovungKvHm760TD48Q7u6nxedPYP_7qJBjkWvx_fx5gey3cJyUwStNuADWbD_1Q5pra9UKS5A-ii0VEY99-lD2isgehQTU6XVKbF-fmfucmCL177FhJD0u8lBLzH1vjLONTs71r_r7ajHJhh230SNDgMc"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,AWS <code> <img height="20" width="16" src="https://www.icontechnicalgroup.com/wp-content/uploads/2019/08/Image-AWS-Logo.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
 
 
