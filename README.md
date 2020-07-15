@@ -39,7 +39,7 @@
 
 #### - 🔭 I do like doing front end because I love to work with javascript but usually I have been improving with backend also
 
-:sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+#### :sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
 
 #### - 🛸 Into High Energy Physics and Astrophysics
 
@@ -72,6 +72,12 @@
 
 </p>
 
+
+### - Blogs 🌱
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+</p>
 
 ### - Podcast ⚡️
 <p align="center">
