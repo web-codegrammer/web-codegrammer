@@ -3,7 +3,7 @@
 
 <br/>
 <a href="https://twitter.com/Web_codegrammer">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Devanshu Vashishtha| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/web-codegrammer">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,7 +21,7 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=web-codegrammer.web-codegrammer)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=web-codegrammer.visitor-badge)
 
 <br />
 
@@ -32,7 +32,7 @@
 ### I'm 21 years old Self-taught Front-end web developer currently moving towards Full Stack development. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
 
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,AWS <code> <img height="20" width="16" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,AWS <code> <img height="20" width="16" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
 
 
