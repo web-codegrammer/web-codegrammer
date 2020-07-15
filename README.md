@@ -39,11 +39,11 @@
 
 #### - 🔭 I do like doing front end because I love to work with javascript but usually I have been improving with backend also
 
-#### - Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+:sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
 
 #### - 🛸 Into High Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >](https://in.linkedin.com/in/web-codegrammer)
+#### - 💬 Connect? Here 👉🏼[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://in.linkedin.com/in/web-codegrammer)
 
 
 <br />
