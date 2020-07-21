@@ -41,7 +41,7 @@
 
 #### - 🔭 I do like doing front end because I love to work with javascript but usually I have been improving with backend also
 
-#### :sparkles: - Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+#### - :sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
 
 #### - 🛸 Into High Energy Physics and Astrophysics
 
