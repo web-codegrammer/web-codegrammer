@@ -85,9 +85,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
 
-[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Weather%20App%20by%20DevanshuV%20at)](https://progressiveapp.store/pwa/Weather-App-by-DevanshuV)
-
-
 
 :dizzy: Ok, for finish, check my Linkedin Profile: [web-codegrammer](https://in.linkedin.com/in/web-codegrammer)
 
