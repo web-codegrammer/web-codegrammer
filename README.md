@@ -2,7 +2,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/Web_codegrammer)
 ### Hi there, I'm [Devanshu!](https://in.linkedin.com/in/web-codegrammer) 👋.  
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=web-codegrammer&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/web-codegrammer/web-codegrammer?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 <br/>
@@ -25,7 +24,7 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-[![Visitors](http://hits.dwyl.com/web-codegrammer/web-codegrammer.svg)](http://hits.dwyl.com/web-codegrammer/web-codegrammer)
+[![Visitors]<img alt="Visitors" src="https://komarev.com/ghpvc/?username=web-codegrammer&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 <br />
 
