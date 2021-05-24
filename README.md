@@ -1,6 +1,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/web-codegrammer)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/Web_codegrammer)
-### Hi there, I'm [Devanshu!](https://in.linkedin.com/in/web-codegrammer) 👋.  
+# HII There👋 
+
+# I am [Devanshu!](https://in.linkedin.com/in/web-codegrammer).  
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=amanbharti0302&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/web-codegrammer/web-codegrammer?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
@@ -29,6 +31,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
+#### ABOUT ME
 
 ### Hi 🙋‍♂️,
 ### I'm 21 years old Self-taught Front-end web developer currently moving towards Full Stack development. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
@@ -90,7 +93,3 @@
 :dizzy: Ok, for finish, check my Linkedin Profile: [web-codegrammer](https://in.linkedin.com/in/web-codegrammer)
 
 #### Thank You-🙏🏼
-
-
-
-  
