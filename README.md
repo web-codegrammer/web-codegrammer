@@ -24,7 +24,7 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-[![Visitors]<img alt="Visitors" src="https://komarev.com/ghpvc/?username=web-codegrammer&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+[![Visitors](https://komarev.com/ghpvc/?username=web-codegrammer&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/)
 
 <br />
 
