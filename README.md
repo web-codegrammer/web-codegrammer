@@ -35,7 +35,7 @@
 ### ABOUT ME
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old Self-taught Front-end web developer currently moving towards Full Stack development. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
+### I'm 22 years old Self-taught Front-end web developer currently moving towards Full Stack development. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
 
 
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>, AWS <code> <img height="18" width="32" src="https://www.icontechnicalgroup.com/wp-content/uploads/2019/08/Image-AWS-Logo.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
