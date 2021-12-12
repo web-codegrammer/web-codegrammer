@@ -4,7 +4,6 @@
 
 # I am [Devanshu!](https://in.linkedin.com/in/web-codegrammer).  
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=amanbharti0302&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/web-codegrammer/web-codegrammer?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ## - 📫 How to reach me: ...
@@ -23,10 +22,6 @@
 <a href="https://www.reddit.com/user//">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/web-codegrammer/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
 <br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
