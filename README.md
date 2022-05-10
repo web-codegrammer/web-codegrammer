@@ -1,91 +1,46 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/web-codegrammer)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/Web_codegrammer)
-# Hi There👋 
+<h2 align="center">
+  Hey Everyone! I'm Devanshu Vashishtha
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-# I am [Devanshu!](https://in.linkedin.com/in/web-codegrammer).  
+<h3 align="center">
+Welcome to my Profile!
+</h3>
 
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/web-codegrammer/web-codegrammer?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## - 📫 How to reach me: ...
-<a href="https://twitter.com/Web_codegrammer">
-  <img align="left" alt="Devanshu Vashishtha| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://in.linkedin.com/in/web-codegrammer">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/Selfmade_middleclass">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/selfmade_middleclass_boy/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<br />
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br />
-
-### ABOUT ME
-
-### Hi 🙋‍♂️,
-### I'm 22 years old Self-taught MERN Stack developer currently moving towards DevOps as a full time employee at AMDOCS INDIA. I like javascript a lot as well as js frameworks also. I am currently a final year student pursuing Computer Engineering from India.
+# <p align="center"><h4 align="center"><samp> I'm DevOps Engineer by profession, An MERN Stack Developer, Cloud Enthusiast ☁  & A Hustler </samp></h4></p>
 
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>, AWS <code> <img height="18" width="32" src="https://www.icontechnicalgroup.com/wp-content/uploads/2019/08/Image-AWS-Logo.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<div>
+  <br>
+  
+- 🌍 <samp>Roots from India
+- 💼 <samp>Currently working as DevOps Engineer at Amdocs India | Client: **Rogers Wireless Canada and VEON Russia**
+- 👷 <samp>B.Tech in Computer Engrineering(2017-2021) from Bharati Vidyapeeth College of Engineering Pune
+- 💬 <samp>Ask me about JavaScript/Web Dev/DevOps/Cloud
+- ♟ <samp>I love developing full stack web applications.
+- 🤔 <samp>I’m looking for help with how to excel in Data Structures & Algorithms.
+- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+</div>
 
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>
+<h4><samp>Will Update soon...</samp></h4>
 
+<br><br>
+## Here are some of my GitHub stats 🚀
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-codegrammer&theme=github_dark)
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" /></center>
 
-#### - 🔭 I do like doing front end because I love to work with javascript but usually I have been improving with backend also
+![web-codegrammer's github stats](https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&theme=midnight-purple)
+<a href="http://www.github.com/web-codegrammer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=web-codegrammer&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="web-codegrammer's streak"/></a>
 
-#### - :sparkles: Software development is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+[![web-codegrammer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=web-codegrammer&custom_title=Devanshu's%20GitHub%20Commits%20Graph&theme=react-dark)](web-codegrammer)
 
-#### - 🛸 Into High Energy Physics and Astrophysics
-
-#### - 💬 Connect? Here 👉🏼[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://in.linkedin.com/in/web-codegrammer)
-
-
-<br />
-
-
-**I am Into , 🙏**
-
-**Web Development (Primary), Data Science (Secondary), SEO, Micro Services, Software Development, Cloud Deployment & Physics and Physics 😼**
-<br />
-
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-*************
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-</p>
-
-
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
-:dizzy: Ok, for finish, check my Linkedin Profile: [web-codegrammer](https://in.linkedin.com/in/web-codegrammer)
-
-#### Thank You-🙏🏼
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
