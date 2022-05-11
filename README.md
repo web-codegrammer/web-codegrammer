@@ -11,7 +11,7 @@ Welcome to my Profile!
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-# <p align="center"><h4 align="center"><samp> I'm DevOps Engineer by profession, An MERN Stack Developer, Cloud Enthusiast ☁  & A Hustler </samp></h4></p>
+# <p align="center"><h3 align="center"><samp> I'm DevOps Engineer by profession, An MERN Stack Developer, Cloud Enthusiast ☁  & A Hustler </samp></h3></p>
 
 
 <div>
@@ -27,10 +27,39 @@ Welcome to my Profile!
 </div>
 
 ##
-<h3><b><samp>Skills and Languages</samp></b></h3>
-<h4><samp>Will Update soon...</samp></h4>
+<h2><b><samp>Skills and Languages</samp></b></h2>
 
-<br><br>
+  <span>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C plus plus" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50" alt="HTML5" /></a>  
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="HTML5" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="HTML5" /></a>         
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50" alt="HTML5" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="50" alt="HTML5" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="HTML5"  /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" height="62" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="62" alt="HTML5" />  
+          
+  </span>
+  
+<h2><b><samp>Tools and Platform</samp></b></h2>
+
+<span>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="HTML5" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="HTML5" /></a>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" height="50" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />      
+</span>
+<hr>
+
+
 ## Here are some of my GitHub stats 🚀
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark)
