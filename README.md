@@ -27,7 +27,7 @@ Welcome to my Profile!
 </div>
 
 ##
-<h2><b><samp>Skills and Languages</samp></b></h2>
+<h2><b><samp>Tech Skills</samp></b></h2>
 
   <span>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C plus plus" /></a>
