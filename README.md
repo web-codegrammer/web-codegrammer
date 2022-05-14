@@ -65,8 +65,12 @@ Welcome to my Profile!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-codegrammer&theme=github_dark)
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" /></center>
-
+ <br>
+<a href="https://github.com/web-codegrammer">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" />
+</a>
+<br>
+  
 ![web-codegrammer's github stats](https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&theme=midnight-purple)
 <a href="http://www.github.com/web-codegrammer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=web-codegrammer&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="web-codegrammer's streak"/></a>
 
@@ -77,8 +81,10 @@ Welcome to my Profile!
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Reach me 📫:
-<p align="left"> <a href="https://www.linkedin.com/in/web-codegrammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+## Reach me 📫: 
+  
+<p align="left">   
+<a href="https://www.linkedin.com/in/web-codegrammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/web-codegrammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="mailto:sharmadevanshu452@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/icons8-gmail.svg" width="38" height="36" /></a>
   </p>
