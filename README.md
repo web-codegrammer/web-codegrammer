@@ -75,7 +75,9 @@ Welcome to my Profile!
 </p>
   
 [![web-codegrammer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=web-codegrammer&custom_title=Devanshu's%20GitHub%20Commits%20Graph&theme=react-dark)](web-codegrammer)
-![snake svg](https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/github-contribution-grid-snake.svg)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src = "https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/github-contribution-grid-snake.svg" /></a>
+  </p>
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
