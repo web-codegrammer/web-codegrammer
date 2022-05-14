@@ -67,6 +67,8 @@ Welcome to my Profile!
 <a href="https://github.com/web-codegrammer">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-codegrammer&theme=github_dark" />
+</a>
+<a href="https://github.com/web-codegrammer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&theme=midnight-purple" />
