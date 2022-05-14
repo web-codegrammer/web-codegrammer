@@ -61,21 +61,20 @@ Welcome to my Profile!
 <hr>
 
 
-## Here are some of my GitHub stats 🚀
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-codegrammer&theme=github_dark)
- <br>
+## Here are some of my GitHub Stats 🚀
+  
+<p align="center">
 <a href="https://github.com/web-codegrammer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web-codegrammer&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-codegrammer&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codegrammer&theme=midnight-purple&layout=compact" />
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&theme=midnight-purple" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=web-codegrammer&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="web-codegrammer's streak"/>
+</a>
+</p>
   
-![web-codegrammer's github stats](https://github-readme-stats.vercel.app/api?username=web-codegrammer&show_icons=true&theme=midnight-purple)
-<a href="http://www.github.com/web-codegrammer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=web-codegrammer&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="web-codegrammer's streak"/></a>
-
 [![web-codegrammer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=web-codegrammer&custom_title=Devanshu's%20GitHub%20Commits%20Graph&theme=react-dark)](web-codegrammer)
-  
 ![snake svg](https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/github-contribution-grid-snake.svg)
 
 <!--trap-->
