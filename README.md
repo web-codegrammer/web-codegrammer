@@ -19,7 +19,7 @@ Welcome to my Profile!
   
 - 🌍 <samp>Roots from India
 - 💼 <samp>Currently working as DevOps Engineer at Amdocs India | Client: **Rogers Wireless Canada | VEON Russia | Versionless(Amdocs)**
-- 👷 <samp>B.Tech in Computer Engrineering(2017-2021)
+- 👷 <samp>B.Tech in Computer Engineering(2017-2021)
 - 💬 <samp>Ask me about JavaScript/Web Dev/DevOps/Cloud
 - ♟ <samp>I love developing full stack web applications.
 - 🤔 <samp>I’m looking for help with how to excel in Data Structures & Algorithms.
