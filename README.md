@@ -11,18 +11,18 @@ Welcome to my Profile!
 
 ![](https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/header_.png)
 
-# <p align="center"><h3 align="center"><samp> I'm DevOps Engineer by profession, An MERN Stack Developer, Cloud Enthusiast ☁  & A Hustler </samp></h3></p>
+# <p align="center"><h3 align="center"><samp> I'm an EX DevOps Engineer(Associate) by profession, An MERN Stack Developer, Cloud Enthusiast ☁  & A Hustler </samp></h3></p>
 
 
 <div>
   <br>
   
 - 🌍 <samp>Roots from India
-- 💼 <samp>Currently working as DevOps Engineer at Amdocs India | Client: **Rogers Wireless Canada | VEON Russia | Versionless(Amdocs)**
+- 💼 <samp>Worked as DevOps Engineer(Associate) at Amdocs India | Client: **Rogers Wireless Canada | VEON Russia | Versionless(Amdocs)**
 - 👷 <samp>B.Tech in Computer Engineering(2017-2021)
 - 💬 <samp>Ask me about JavaScript/Web Dev/DevOps/Cloud
 - ♟ <samp>I love developing full stack web applications.
-- 🤔 <samp>I’m looking for help with how to excel in Data Structures & Algorithms.
+- 🤔 <samp>I’m looking to excel and make strong hold on problem solving skills using Data structures and algorithms
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - ✉️ <samp>You can drop me an mail at [sharmadevanshu452@gmail.com](mailto:sharmadevanshu452@gmail.com)
 </div>
